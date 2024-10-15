@@ -53,15 +53,19 @@
 
 ## Project Video
 
-Soon
+
+https://github.com/user-attachments/assets/40bc22a3-cbc0-447f-9ccf-e540f19f6f99
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![project-image-1](soon)
-![project-image-2](soon)
+![project-image-1](https://github.com/user-attachments/assets/726f2261-90bb-45c4-8703-2ee5aa28084d)
+![project-image-2](https://github.com/user-attachments/assets/11bb43a9-d5ba-49a8-b531-75a3917ee245)
+![project-image-3](https://github.com/user-attachments/assets/e7c78fcc-fa8a-4456-be5f-cb04b130be6c)
+
 
 The Reimagination App is a prototype designed for text-to-image, text-to-video generation and image captioning. It integrates advanced generative AI models to provide users with a seamless experience in generating visual content from textual input. 
 
