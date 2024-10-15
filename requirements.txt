@@ -5,7 +5,6 @@ accelerate
 torch
 torchvision
 torchaudio
-torch_xla
 imageio[ffmpeg]
 ipython
 matplotlib
