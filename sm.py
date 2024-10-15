@@ -7,6 +7,7 @@ from transformers import VisionEncoderDecoderModel, ViTImageProcessor, AutoToken
 import numpy as np
 import imageio
 from base64 import b64encode
+import os
 
 # Initialize the translator
 translator = Translator()
@@ -29,7 +30,7 @@ def load_image_gen_model():
         CFG.image_gen_model_id,
         torch_dtype=torch.float16,
         revision="fp16",
-        use_auth_token=YOUR_HUGGINGFACE_TOKEN
+        use_auth_token=os.environ('YOUR_HUGGINGFACE_TOKEN')
     ).to(CFG.device)
 
 @st.cache_resource
