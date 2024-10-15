@@ -86,6 +86,8 @@ To get a local copy up and running, follow these steps:
 * Python 3.8
 * Pip (Python package installer)
 * Streamlit
+* ![Huggingface Token](https://huggingface.co/docs/hub/en/security-tokens)
+  
 ### Ways to run the application
 ## Approach 1: Running on Local Machine
 # Installation
