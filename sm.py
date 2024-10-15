@@ -29,7 +29,7 @@ def load_image_gen_model():
         CFG.image_gen_model_id,
         torch_dtype=torch.float16,
         revision="fp16",
-        use_auth_token="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"
+        use_auth_token=YOUR_HUGGINGFACE_TOKEN
     ).to(CFG.device)
 
 @st.cache_resource
