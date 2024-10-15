@@ -20,7 +20,7 @@
 <h3 align="center">Reimagination App</h3>
 
   <p align="center">
-    A functional prototype for text-to-image and text-to-video generation using deep learning techniques.
+    A functional prototype for text-to-image and text-to-video generation using generative AI models.
     <br />
     <a href="https://github.com/SarthakB11/ReimaginationApp"><strong>Explore the docs »</strong></a>
     <br />
@@ -53,17 +53,17 @@
 
 ## Project Video
 
-https://github.com/user-attachments/assets/8037b1ee-b416-457c-9ef6-9caade7c9d54
+Soon
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![project-image-1](https://github.com/user-attachments/assets/2e84d356-448b-4960-aba3-68db8da96df0)
-![project-image-2](https://github.com/user-attachments/assets/0eaa87dc-ddc8-4ff0-ad27-9e593920dfa8)
+![project-image-1](soon)
+![project-image-2](soon)
 
-The Reimagination App is a prototype designed for text-to-image and text-to-video generation. It integrates advanced deep learning models to provide users with a seamless experience in generating visual content from textual input. 
+The Reimagination App is a prototype designed for text-to-image, text-to-video generation and image captioning. It integrates advanced generative AI models to provide users with a seamless experience in generating visual content from textual input. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
